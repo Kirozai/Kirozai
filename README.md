@@ -1,5 +1,5 @@
 <h1 align="center" color="#F0DB4F">
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>`` Hello, World ! ``
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>Hello World
   <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>
 </h1>
 <br/>
@@ -16,7 +16,7 @@
   </div>
 </div>
 <br/>
-<h2>⚡ Main Technologies</h2>
+<h2 align="center">⚡ Main Technologies ⚡</h2>
 <br/>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
