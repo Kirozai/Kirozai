@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  <a href="#"><iframe src="https://giphy.com/embed/KD1vTHZYe5l8TcPZHo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/void-black-hole-attraction-KD1vTHZYe5l8TcPZHo">via GIPHY</a></p></a>
 </h1>
 
 <p align="center">   
