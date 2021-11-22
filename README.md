@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, friend!
-  <iframe src="https://giphy.com/embed/KD1vTHZYe5l8TcPZHo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <a href="#"><img src="https://media3.giphy.com/media/PnIpBoEJl7aaoBDxHt/giphy.gif" width="48"></a>
 </h1>
 
 <p align="center">   
