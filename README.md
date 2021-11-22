@@ -33,8 +33,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?style=flat-square&logo=materialui&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?style=flat-square&logo=reactrouter&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/mongoose-0D1117?style=flat-square&logo=mongoosejs&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/rest-0D1117?style=flat-square&logo=restapi&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?style=flat-square&logo=graphql&logoColor=F0DB4F"></a>
 </p>
 
 <br/>
