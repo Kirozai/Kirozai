@@ -20,7 +20,7 @@
 
 <diV>
 
-  <div align="center">
+  <div align="center" display="flex">
     <a href="#"><img alt="Kiro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirozai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <a href="#"><img alt="Kiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirozai&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
