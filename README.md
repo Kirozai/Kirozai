@@ -10,7 +10,7 @@
 <diV>
   <div align="center">
     <a href="#"><img alt="Kiro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirozai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Kiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirozai&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&card_width=200" height="200"/></a>
+    <a href="#"><img alt="Kiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirozai&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&card_width=150" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
@@ -29,7 +29,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-square&logo=github&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
 </p>
 
