@@ -1,6 +1,5 @@
 <h1 align="center" color="#F0DB4F">
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>
-  Hello, World !
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>```diff + Hello, World !```
   <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>
 </h1>
 <br/>
