@@ -32,7 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   
 </p>
