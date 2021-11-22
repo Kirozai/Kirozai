@@ -7,9 +7,6 @@
   <a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a> 
 </p>
-<br/>
-<h2>📃 Github Stats</h2>
-<br/>
 <diV>
   <div align="center">
     <a href="#"><img alt="Kirozai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirozai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
