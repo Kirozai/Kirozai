@@ -1,4 +1,4 @@
-<h1 align="center" ><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></h1>
+<p align="center" ><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></p>
 
 <p align="center">   
   <a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
@@ -13,7 +13,7 @@
   </div>
 </div>
 <br/>
-<h2 align="center">⚡ Main Technologies ⚡</h2>
+<p align="center">⚡ Main Technologies ⚡</p>
 <br/>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
