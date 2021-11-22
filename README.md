@@ -1,46 +1,30 @@
-<hr/>
 <h1 align="center">
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="60"></a>
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>
   Hello, World !
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="60"></a>
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="80"></a>
 </h1>
-
 <p align="center">   
   <a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
-  
+  <a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a> 
 </p>
-
-
 <br/>
-
-
 <h2>📃 Github Stats</h2>
-
 <br/>
-
 <diV>
-
   <div align="center">
     <a href="#"><img alt="Kirozai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirozai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <a href="#"><img alt="Kirozai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirozai&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&card_width=200" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-
   <hr/>
-
   <div>
     <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thiagodesouza&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
-
 <br/>
-
 <h2>⚡ Main Technologies</h2>
-
 <br/>
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"></a>
