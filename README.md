@@ -1,2 +1,2 @@
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kirozai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=0D1117&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kirozai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kirozai&layout=compact&langs_count=3&title_color=FFFFFF&bg_color=0D1117&text_color=FFFFFF"/>
