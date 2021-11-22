@@ -5,7 +5,7 @@
 
 <p align="center">   
   <a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.instagram.com/therealsbaofu.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+  <a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   
 </p>
 
