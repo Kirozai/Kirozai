@@ -1,7 +1,8 @@
+<hr/>
 <h1 align="center">
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="100"></a>
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="60"></a>
   Hello, World !
-  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="100"></a>
+  <a href="#"><img src="https://i.gifer.com/origin/2d/2d4adaf81d4a24d3da1a5c93834e56b9_w200.gif" width="60"></a>
 </h1>
 
 <p align="center">   
