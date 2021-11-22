@@ -34,6 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?style=flat-square&logo=reactrouter&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?style=flat-square&logo=graphql&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=F0DB4F"></a>
 </p>
 
 <br/>
