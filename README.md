@@ -15,8 +15,6 @@
 <a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
 <a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a> 
 
-<br>
-
 ## Languages and Tools: <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
 <p align="center">
@@ -40,18 +38,12 @@
   <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?logo=graphql&logoColor=F0DB4F"></a>
 </p>
 
-
-
-<br>
-
 ## My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
-
-<div>
   <div align="center">
     <a href="#"><img alt="Kiro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirozai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200" width="400"/></a>
     <a href="#"><img alt="Kiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirozai&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&card_width=200" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-</div>
+
