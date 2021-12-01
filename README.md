@@ -17,23 +17,23 @@
 <br/>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?style=flat-square&logo=materialui&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?style=flat-square&logo=reactrouter&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?style=flat-square&logo=graphql&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=F0DB4F"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?logo=Node.js&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?logo=git&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?logo=amazon-dynamodb&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?logo=lua&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-0D1117?logo=express&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0D1117?logo=bootstrap&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?logo=materialui&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?logo=redux&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?logo=reactrouter&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?logo=graphql&logoColor=F0DB4F"></a>
 </p>
 
 <br/>
