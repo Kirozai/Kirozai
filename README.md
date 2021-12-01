@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Kiro's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0DB4F&size=29&multiline=true&width=700&lines=Welcome+To+Kiro's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 ## Hi there I'm Kiro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-> **Well done is better than Well said**💪
+> **Well done is better than Well said**�
 
-# I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
+# I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">
 
 - 🌱 I’m currently learning C# & Unity 
 - 🌱 I’m currently working on fivem scripts & web projects
@@ -17,7 +17,7 @@
 
 <br>
 
-## Languages and Tools:
+## Languages and Tools: <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F0DB4F"></a>
@@ -44,7 +44,7 @@
 
 <br>
 
-## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+## My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
 
 <div>
