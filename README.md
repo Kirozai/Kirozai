@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0DB4F&size=29&multiline=true&width=700&lines=Welcome+To+Kiro's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-## Hi there I'm Kiro <img src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width="30px">
+## Hi there I'm Kiro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 > **"Programming isn't about what you know; it's about what you can figure out.”**
 
 # I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">
