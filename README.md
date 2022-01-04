@@ -2,11 +2,11 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://cdn4.iconfinder.com/data/icons/male-occupation-avatar-1/64/Programmer-Coding-Avatar-Occupation-Man-512.png" /></a>
 ## Hi there I'm Kiro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-> **"Programming isn't about what you know; it's about what you can figure out.”**
+> **"Programming isn't about what you know, it's about what you can figure out.”**
 
 # I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">
 
-- 🌱 I’m currently learning C# & Unity 
+- 🌱 Full Stack Web Dev 
 - 🌱 I’m currently working on fivem scripts & web projects
 
 
