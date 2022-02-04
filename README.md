@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=F0DB4F"></a> 
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=F0DB4F"></a>
@@ -35,7 +34,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?logo=materialui&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?logo=redux&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?logo=reactrouter&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/graphql-0D1117?logo=graphql&logoColor=F0DB4F"></a>
 </p>
 
 ## My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
