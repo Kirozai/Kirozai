@@ -31,9 +31,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?logo=lua&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-0D1117?logo=express&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0D1117?logo=bootstrap&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?logo=materialui&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Material-UI-0D1117?logo=materialui&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-0D1117?logo=redux&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Router-0D1117?logo=reactrouter&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-0D1117?logo=c%2B%2B&logoColor=F0DB4F"></a>
 </p>
 
 ## My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
