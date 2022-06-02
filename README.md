@@ -4,7 +4,7 @@
 ## Hi there I'm Kiro 
 > **"Programming isn't about what you know, it's about what you can figure out.”**
 
-# I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">
+# I'm a Tech Enthusiast ! </b>&nbsp;
 
 - 🌱 Full Stack Web Dev 
 - 🌱 I’m currently working on fivem scripts & web projects
